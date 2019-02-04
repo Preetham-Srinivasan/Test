@@ -1,4 +1,5 @@
-Hello testing conflict master
+Hello  testing conflict newbranch master
 how
 are
 you
+Adding contents of new branch
