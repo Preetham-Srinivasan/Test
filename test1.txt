@@ -1,4 +1,4 @@
-Hello  testing conflict newbranch
+Hello  testing conflict newbranch master
 how
 are
 you
